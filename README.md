@@ -2,6 +2,8 @@
 
 Simple static website generator made with nuxt js and nuxt content
 
+Demo: https://florianbgt.github.io/
+
 ## Build Setup
 
 ```bash
