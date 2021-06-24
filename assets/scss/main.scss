@@ -1,0 +1,11 @@
+$primary: #0496FF;
+$secondary: #DE541E;
+$light: #FFFFFC;
+$dark: #173753;
+
+$body-bg: #F8F9F9;
+
+//then bootstrap & bootstrap-vue should be added after
+//so that they inherit the custom SCSS variables
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-vue/src/index.scss';

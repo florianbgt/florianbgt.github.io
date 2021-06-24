@@ -1,0 +1,164 @@
+{
+    "information": {
+      "picture": "FlorianBigot.jpg",
+      "name": "Florian Bigot",
+      "title": "Full-Stack Developer & Engineer",
+      "subTitle": "Python | Javascript | Django | Vue.js | Node.js | Docker",
+      "description": [
+          "Mechanical Engineer by training, and self taught web developer. I like being challenged and solve problemms!",
+          "After a few succesfull year as a mechanical engineer I recently discover a new passion for coding. I learn everything myself using online ressources to solve everyday problems I face during my previous jobs.",
+          "I am now focusing on developing web application using modern javascript web framework (Vue 3 and Nuxt) and Python based REST API (Django). I also use Docker on a everyday basis to ease deployment and maintenance.",
+          "Feel free to email me if you want to chat"
+      ],
+      "contacts": [
+        {"name": "Providence, RI", "icon": ["fas", "map-marker-alt"], "url": "http://maps.google.com/?q=Providence RI"},
+        {"name": "+1 401-316-8293", "icon": ["fas", "phone"], "url": "tel:+1 401-316-8293"},
+        {"name": "florian.bigot321@gmail.com", "icon": ["fas", "envelope"], "url": "mailto:florian.bigot321@gmail.com"},
+        {"name": "Github", "icon": ["fab", "github"], "url": "https://github.com/florianbgt"},
+        {"name": "Linkdin", "icon": ["fab", "linkedin"], "url": "https://www.linkedin.com/in/florian-bigot/"}
+      ]
+    },
+    "skillset": [
+      {
+        "category": "Programming Language",
+        "skills": [
+          {"name": "Python 3", "level": 4},
+          {"name": "Javascript ES6", "level": 4},
+          {"name": "Node.js", "level": 2}
+        ]
+      },
+      {
+        "category": "Backend Dev",
+        "skills": [
+          {"name": "Django", "level": 4},
+          {"name": "Django REST", "level": 4},
+          {"name": "Express.js", "level": 2}
+        ]
+      },
+      {
+        "category": "Frontend Dev",
+        "skills": [
+          {"name": "Vue 3", "level": 4},
+          {"name": "Nuxt 2", "level": 2},
+          {"name": "JQuerry", "level": 3}
+        ]
+      },
+      {
+        "category": "Databases",
+        "skills": [
+          {"name": "SQL", "level": 3},
+          {"name": "NoSQL", "level": 2},
+          {"name": "Firebase", "level": 2}
+        ]
+      },
+      {
+        "category": "DevOps",
+        "skills": [
+          {"name": "Docker", "level": 3},
+          {"name": "Nginx", "level": 2},
+          {"name": "Linux", "level": 3},
+          {"name": "Windows", "level": 2}
+        ]
+      },
+      {
+        "category": "Other",
+        "skills": [
+          {"name": "Mechanical Engineering", "level": 4},
+          {"name": "Material Science", "level": 4},
+          {"name": "Project management", "level": 4},
+          {"name": "Customer Relation", "level": 4}
+        ]
+      }
+    ],
+    "experiences": [
+      {
+        "company": "Hutchinson",
+        "location": "Danielson CT, United-State",
+        "from": {"month": 1, "year": 2019},
+        "title": "Product Development Engineer",
+        "description": "Technology transfer of static and dynamic molded sealing solutions from France to the United-States.",
+        "tasks": [
+          "Constructed web applications to organize, standardize and speed up early development phases for standard products (configurators, databases, work orders) using Python and JavaScript (Django and a Linux server)",
+          "Adapted and integrated global standard design for static and dynamic sealing solutions to US customers",
+          "Created CAE software to reduce cost and time of key product development using Python",
+          "Implemented additive manufacturing methods (FDM of TPE) to reduce cost and time for internal and prototype testing",
+          "Responsible for design, CAE validation and component sourcing for all non-standard new product development (SolidWorks, Hypermesh, and an internal CAE solver)"
+        ]
+      },
+      {
+        "company": "Hutchinson",
+        "location": "Saint-Brieuc, France",
+        "from": {"month": 7, "year": 2018},
+        "to": {"month": 12, "year": 2018},
+        "title": "Project Manager",
+        "description": "Project management of molded static sealing solutions from the quotation to the Start of Production (SOP)",
+        "tasks": [
+          "Collaborated with the customer on all technical aspects of the project while engaging with the cross-functional teams",
+          "Managed multi-disciplinary teams’ activities across design, CAE, laboratory, prototype, industrialization, quality, and production"
+        ]
+      },
+      {
+        "company": "Hutchinson",
+        "location": "Saint-Brieuc, France",
+        "from": {"month": 1, "year": 2018},
+        "to": {"month": 7, "year": 2018},
+        "title": "CAE Engineer intern",
+        "description": "Performed CAE product validation and optimization of static sealing solutions",
+        "tasks": [
+          "Executed and evaluated CAE tasks to optimize product functional requirement",
+          "Wrote a program to extract, analyze, and store data from multiple Excel files into a centralized database using VBA",
+          "Expanded and enriched a database used for CAE analysis through characterization of different material properties"
+        ]
+      },
+      {
+        "company": "Coriolis Composites",
+        "location": "Queven, France",
+        "from": {"month": 1, "year": 2018},
+        "to": {"month": 6, "year": 2017},
+        "title": "Innovation Engineer intern",
+        "description": "Patented and Optimized an inovative design for an hydro foil prototype for the racing yacht industry",
+        "tasks": [
+          "Generated CAE model to study the impact of material and geometrical parameters on the crack resistance",
+          "Tested a 1/10th prototype to correlate and improve the CAE model",
+          "Applied innovative design principles to optimize the existing stack up to reduce crack propagations"
+        ]
+      },
+      {
+        "company": "CSIC",
+        "location": "Sheffield, United-Kingdom",
+        "from": {"month": 3, "year": 2015},
+        "to": {"month": 6, "year": 2015},
+        "title": "R&D Technician intern",
+        "description": "Assisted research on new composites materials",
+        "tasks": [
+          "Fabricated samples and performed material characterization and testing according to different standard procedures",
+          "Analyzed results and consolidated findings into reports"
+        ]
+      }
+    ],
+    "educations": [
+      {
+        "school": "Udemy and other online ressources",
+        "location": "Remote",
+        "from": {"month": 2, "year": 2020},
+        "title": "Self-learning Full-stack Development and Operation",
+        "description": "Learn various technology using online courses (Udemy), books and other ressources"
+      },
+      {
+        "school": "University of Technology of Compiègne",
+        "location": "Compiègne, France",
+        "from": {"month": 9, "year": 2015},
+        "to": {"month": 7, "year": 2018},
+        "title": "Msc in Mechanical Engineering",
+        "description": "Specialization in computed assisted engineering and material science. GPA: 3.78/4"
+      },
+      {
+        "school": "University Institute of Technology of Saint-Brieuc",
+        "location": "Saint-Brieuc, France",
+        "from": {"month": 9, "year": 2013},
+        "to": {"month": 7, "year": 2015},
+        "title": "Bsc in Material Engineering",
+        "description": "Rank: 5/55"
+      }
+    ]
+  }
