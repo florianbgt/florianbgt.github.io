@@ -1,6 +1,7 @@
 <template>
     <article>
-        <blog-img :src="'image' in article ? article.image : 'default.png'" style="width: 100%; height: 250px; object-fit: cover"/>
+        <blog-img v-if="'image' in article" :src="article.image" style="width: 100%; height: 250px; object-fit: cover"/>
+        <img v-else :src="require('~/content/blog/default.png')" style="width: 100%; height: 250px; object-fit: cover"/>
         <h1>{{ article.title }}</h1>
         <h4 class="text-secondary">
             <small>
